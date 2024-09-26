@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Satwinder Kaur's Portfolio</title>
+    <title>Harpreet Kaur's Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -111,7 +111,7 @@
 </head>
 <body>
     <header>
-        <h1>Satwinder Kaur</h1>
+        <h1>Harpreet Kaur</h1>
         <p>Aspiring Computer Science Professional</p>
     </header>
     <nav>
@@ -132,14 +132,14 @@
         <section id="contact">
             <h2>Contact Information</h2>
             <p>Phone: 98xxxxxxxx</p>
-            <p>Email: itzvirksatwinder823@gmail.com</p>
+            <p>Email: harpreetkaur11971@gmail.com</p>
             <p>Address: Patiala</p>
         </section>
         <section id="personal">
             <h2>Personal Information</h2>
-            <p>Date of Birth: August 23, 2002</p>
-            <p>Father’s Name: Sukhwinder Singh</p>
-            <p>Mother’s Name: Ranjeet Kaur</p>
+            <p>Date of Birth: July13, 2004</p>
+            <p>Father’s Name: Amrinder Singh</p>
+            <p>Mother’s Name: Kulwinder Kaur</p>
         </section>
         <section id="objective">
             <h2>Objective</h2>
@@ -148,10 +148,10 @@
         <section id="education">
             <h2>Education</h2>
             <p>BCA in Computer Science, Sri Guru Granth Sahib World University, Fatehgarh Sahib (Expected Graduation: May 2025)</p>
-            <p>12th Grade, Shri Guru Teg Bahadur Khalsa College, Akkar Patiala (2019)</p>
-            <p>10th Grade, Sen. Sec. Smart School Sahoke-Dhadriya, Sangrur (2017)</p>
-            <p>ITI Trade: Surface Ornamentation Techniques, ITI Women Rajpura (2021)</p>
-        </section>
+            <p>12th Grade,  Govt.sen.sec.smart school, Model Town,Patiala (2022)</p>
+            <p>10th Grade,  Govt.sen.sec.smart school, Model Town,(2020)</p>
+            
+      </section>
         <section id="skills">
             <h2>Skills</h2>
             <p>Programming Languages: C, C++</p>
